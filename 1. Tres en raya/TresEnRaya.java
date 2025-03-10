@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class TresEnRaya {
     public static void main(String[] args) {
         char[][] board = new char[3][3];
         for(int row = 0; row <board.length; row++){
